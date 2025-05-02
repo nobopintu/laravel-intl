@@ -1,5 +1,5 @@
 {
-    "name": "propaganistas/laravel-intl",
+    "name": "nobopintu/laravel-intl",
     "description": "Easy to use internationalization functions for Laravel",
     "keywords": [
         "laravel",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Propaganistas",
-            "email": "Propaganistas@users.noreply.github.com"
+            "name": "nobopintu",
+            "email": "nobopintu@users.noreply.github.com"
         }
     ],
     "require": {
